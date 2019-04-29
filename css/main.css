@@ -1,0 +1,83 @@
+.top-headernav {
+  background-color: #eee;
+  border-bottom: 2px dotted #c2c2c2;
+}
+.my-nav {
+  font-size: 15px;
+  background-color: #F4F4F4;
+  border-bottom: 1px solid #eee;
+}
+.menu {
+	margin-left: -25px;
+}
+.menu li ul {
+	padding-top: 0;
+	padding-bottom: 0;
+	background-color: #F1F1F1;
+	border-top: 1px solid #e7e4e4;
+	border-radius: 0px 0 5px 5px;
+	-moz-border-radius: 0px 0 5px 5px;
+	-webkit-border-radius: 0px 0 5px 5px;
+}
+.menu li {
+	margin-left: .5%;
+  width: auto;
+}
+.menu li a {
+  background-color: #F4F4F4;
+}
+.menu li a {
+	color: #199CD8;
+}
+.contuct-header {
+  color: #199CD8;
+}
+.left-price {
+  color: #449D44;
+}
+.col-sm-12 h3:hover {
+	color: #449D44;
+}
+.view-container {
+	width: 85%;
+}
+.Related-container {
+	width: 85%;
+}
+.Related-product-colum {
+	margin-top: 10px;
+}
+.RelatedProductsFeature {
+	font-size: 24px;
+}
+.view-section-related {
+	width: 100%;
+	margin: 10px auto;
+	padding: 10px 0;
+	background-color: #F4F4F4;
+	border-top: 1px;
+	border-right: none !important;
+	border-left: none !important;
+	border-bottom: 1px;
+	border-style: solid;
+	border-color: #ddd;
+}
+.pie-chart canvas {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+   }
+   .pie-chart {
+    position: relative;
+    margin: 0 auto 15px auto;
+    text-align: center;
+    height: 160px;
+width: 160px;
+line-height: 160px; }

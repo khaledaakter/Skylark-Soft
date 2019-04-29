@@ -1,0 +1,155 @@
+@media (min-width: 0px) and (max-width: 768px) {
+  .logo {
+   width: 150px;
+  }
+  .search-icon {
+  	margin-top: -35px !important;
+  }
+  .search-from {
+	margin: -10px 0 5px;
+  }
+  .menu li {
+    width: auto;
+  }
+  .filterBy {
+  	margin-bottom: 10px;
+  	padding-right: 5px;
+  	width: 60px !important;
+  }
+  .ChangePage {
+  	margin: 0 auto;
+  	width: 270px;
+  	float: left;
+  }
+  .new-btn {
+	  margin: 2px 25px 10px;
+  	}
+  .filterBySelect {
+  	margin-right: 10px;
+  	width: 60px !important;
+  }
+  .product-image {
+    width: 100%;
+  }
+  .FollowUpImg {
+    margin-right: 10px;
+    width: 55px;
+    float: left;
+  }
+  .FooterMenu {
+  	width: 100%;
+  }
+  .FooterMenu li a {
+  	float: left;
+  }
+  .contuct-header h2 {
+		font-size: 19px;
+  }
+  .contuct-container {
+		width: auto;
+  }
+  .contuct-container h2 {
+		padding: 3%;
+		font-size: large;
+		font-weight: bold;
+  }
+  .contuct-container form fieldset label {
+		font-size: medium;
+		font-weight: bold;
+  }
+  .contuct-right-add {
+		padding-left: 1px;
+  }
+  .contuct-right-add li {
+    margin-left: 0;
+  }
+  .BuyerRatingIcon {
+		font-size: 15px;
+  }
+}
+@media (min-width: 0px) and (max-width: 500px) {
+	.subscribe-in {
+		font-size: 15px;
+	}
+  .captchar {
+  	width: auto;
+  }
+  .Condition-header {
+  	font-size: 19px;
+	}
+}
+@media (min-width: 768px) and (max-width: 1195px) {
+	.add-fabor {
+		top: 36px;
+	}
+	.view-add-fabor {
+		top: 5px;
+	}
+	.veiw-demo {
+		margin: 5px auto !important;
+		width: 100%;
+	}
+	.ViewSocialIcon {
+		margin-top: 5px;
+		width: 100%;
+		float: left;
+	}
+}
+@media (min-width: 768px) and (max-width: 1695px) {
+	.products-footer .col-sm-6 {
+		width: 100%;
+	}
+	.buyer-rating {
+    font-size: 15px;
+	}
+	.BuyerRatingIcon {
+	    font-size: 15px;
+	}
+}
+@media (min-width: 768px) and (max-width: 1395px) {
+  .search-from {
+  	margin-top: -50px;
+  }
+  .filterBySelect {
+  	margin-right: 15px;
+  	width: 55px !important;
+  }
+  .menu li {
+    width: auto;
+  }
+  .ShowCartImg {
+  	width: auto;
+  }
+  .FollowUpIcons {
+  	width: 100%;
+  }
+  .subscribe-in {
+    border-radius: 3px 0 0 3px;
+    -moz-border-radius: 3px 0 0 3px;
+    -webkit-border-radius: 3px 0 0 3px;
+  }
+  .products-footer .col-sm-6 {
+  	padding: 1px;
+  }
+  .demo {
+  	padding: 6px 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 1396px) {
+	.view-container {
+  	margin: 0 auto;
+    width: 90%;
+  }
+}
+@media (min-width: 1396px) and (max-width: 1704px) {
+  .subscribe-in {
+    border-radius: 3px 0 0 3px;
+    -moz-border-radius: 3px 0 0 3px;
+    -webkit-border-radius: 3px 0 0 3px;
+  }
+}
+@media (min-width: 0px) and (max-width: 1704px) {
+	.subscribe-Icon {
+		margin-top: -50px;
+  }
+}
